@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@200&display=swap');
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.cartao {
+    display: block;
+    text-align: center;
+    background-image: linear-gradient(#07AFBE,#0CE4F8);
+    margin: 10% 25% 4% 25%;
+    height: 70%;
+    width: 50%;
+    padding-top: 5%;
+    box-shadow: 6px 6px 6px #71A3A7;
+    border-radius: 5px;
+}
+button {
+    background-color: #9BF6C1;
+    color: white;
+    font-weight: bold;
+    margin: 0 25% 4% 25%;
+    width: 50%;
+    border-radius: 8px;
+    box-shadow: 6px 6px 6px #71A3A7;
+}
+button a {
+    text-decoration: none;
+}
